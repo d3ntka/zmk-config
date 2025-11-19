@@ -54,7 +54,7 @@
             >;
 
             sensor-bindings =
-                <&inc_dec_kp LA(LC(LG(MINUS))) LA(LC(LG(PLUS)))>,
+                <&inc_dec_kp LA(LC(LG(MINUS))) LA(LC(LG(EQUAL)))>,
                 <&inc_dec_kp PG_DN PG_UP>;
         };
 
